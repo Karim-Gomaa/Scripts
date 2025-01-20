@@ -3,7 +3,7 @@ rule Phobos_Ransomware
 	meta:
 	    description = "Detects Phobos ransomware malware pattern"
 		generated_by = "Karim Gomaa"
-		date = "2024-10-28"
+		date = "2025-1-20"
 		version = "1.0"
 		
 	
