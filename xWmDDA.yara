@@ -3,7 +3,7 @@ rule xWmDDA
     meta:
         description = "Detects Xworm Keylogger"
         author = "Karim Gomaa"
-        date = "2024-11-3"
+        date = "2025-1-22"
 	version = "1.0"
 
 
